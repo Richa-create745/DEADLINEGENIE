@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineGenie",
+  "description": "An AI-powered productivity companion to manage tasks, goals, habits, and receive personalized recommendations using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
