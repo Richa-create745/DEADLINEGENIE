@@ -2,6 +2,8 @@
 
 ### AI-Powered Smart Deadline & Productivity Companion
 
+**Live Demo:** https://deadlinegenie-525997822181.asia-southeast1.run.app/
+
 **Developed for:** Vibe2Ship Hackathon 2026  
 **Organized by:** Coding Ninjas × Google for Developers
 
